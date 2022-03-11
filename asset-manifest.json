@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Wall-game/static/css/main.8bd0379d.css",
+    "main.js": "/Wall-game/static/js/main.ce224ad7.js",
+    "static/js/787.6a541d2d.chunk.js": "/Wall-game/static/js/787.6a541d2d.chunk.js",
+    "static/media/win.wav": "/Wall-game/static/media/win.b222ebf03a29c11b61f0.wav",
+    "index.html": "/Wall-game/index.html",
+    "main.8bd0379d.css.map": "/Wall-game/static/css/main.8bd0379d.css.map",
+    "main.ce224ad7.js.map": "/Wall-game/static/js/main.ce224ad7.js.map",
+    "787.6a541d2d.chunk.js.map": "/Wall-game/static/js/787.6a541d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bd0379d.css",
+    "static/js/main.ce224ad7.js"
+  ]
+}
